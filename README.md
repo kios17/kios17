@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/kios17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kios17" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/273592" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="273592" height="30" width="40" /></a>
 <a href="https://instagram.com/it.s.well" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it.s.well" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/it is well" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="it is well" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCG2zQy1SkuivlPSUuzWzzKw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="it is well" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
