@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [kios.uy](http://kios.uy/projects)
+- 👨‍💻 All of my projects are available at [kios.uy](https://kios.uy)
 
 - 💬 Ask me about **PHP, Microservices, Java, Docker**
 
